@@ -12,4 +12,4 @@ def setting_browser():
 
 @pytest.fixture()
 def open_browser():
-    browser.open('https://google.com')
+    browser.open('https://duckduckgo.com/?q=')
